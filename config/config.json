@@ -1,6 +1,1 @@
-{
-  "wordJson":"../config/words.json",
-  "dumpTxt":"../recordWords/dumpWordLists.txt",
-  "websiteList":[{"url":"http://dictionary.reference.com/browse/{0}?s=t"},{"url":"http://dictionary.cambridge.org/us/dictionary/english/{0}"}],
-  "wordCache":"../config"
-}
+{"websiteList": [{"url": "http://dictionary.reference.com/browse/{0}?s=t"}, {"url": "http://dictionary.cambridge.org/us/dictionary/english/{0}"}], "dumpTxt": "../recordWords/dumpWordLists.txt", "wordJson": "../config/words.json", "wordCache": "../config"}
